@@ -2,3 +2,8 @@
 function getListStores (){
 
 }
+
+//Esta función trae datos de una cafetería seleccionada
+function bringData(){
+
+}
