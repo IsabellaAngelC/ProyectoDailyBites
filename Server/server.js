@@ -23,6 +23,6 @@ function saveLunch (){
 }
 
 //Verifica el usuario del adminustrador
-function getuser (){
+function getUser (){
 
 }
