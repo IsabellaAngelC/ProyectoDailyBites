@@ -7,3 +7,8 @@ function getListStores (){
 function bringData(){
 
 }
+
+//Esta función verifica la información del almuerzo escogido
+function checkInfo (){
+
+}
